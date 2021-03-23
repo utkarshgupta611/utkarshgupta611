@@ -27,7 +27,7 @@
 
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?&style=for-the-badge&logo=tableau&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-MySql-blue?&style=for-the-badge&logo=Mysql&logoColor=white)
-![MS-Excel](https://img.shields.io/badge/-MsExcel-green?&style=for-the-badge&logo=Excel&logoColor=white)
+![MS-Excel](https://img.shields.io/badge/-MsExcel-green?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 
 
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
