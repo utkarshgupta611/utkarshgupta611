@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Uploading image.png…]()
+<img src="./assets/img/header.jpg">
 
 <!--
 **utkarshgupta611/utkarshgupta611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
