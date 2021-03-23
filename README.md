@@ -25,7 +25,7 @@
 
 ![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Tableau](https://img.shields.io/badge/-Tableau-blue)
+![Tableau](https://img.shields.io/badge/-Tableau-blue?&style=for-the-badge&logo=tableau&logoColor=white)
 
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
