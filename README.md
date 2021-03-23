@@ -37,14 +37,14 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-# ![FastAPI](https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+<!--# ![FastAPI](https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&style=for-the-badge&logo=fastapi&logoColor=white)-->
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-# ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+<!--# ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)-->
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-# ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+<!--# ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)-->
 
-# ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+<!--# ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)-->
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
