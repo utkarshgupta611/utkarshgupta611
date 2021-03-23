@@ -9,7 +9,7 @@
 
 </p>
 
-<img align="right" src="./asset/imgprogrammer.gif" alt="gif">
+<img align="right" src="./asset/img/programmer.gif" alt="gif">
 
 ## **About Me** 😎
 
