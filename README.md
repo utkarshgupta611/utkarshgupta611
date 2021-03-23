@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on ... <b>Data Science & Machine learning</b>
 - 🤔 I’m looking for help with ... <b>Deep learning</b>
 
-<!-- Language and tools badge-->
+<!-- Language and tools badge  from https://shields.io/ -->
 ## 🛠️ **Languages & Tools:**
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +26,9 @@
 ![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?&style=for-the-badge&logo=tableau&logoColor=white)
+![Mysql](https://img.shields.io/badge/-MySql-blue?&style=for-the-badge&logo=Mysql&logoColor=white)
+![MS-Excel](https://img.shields.io/badge/-MsExcel-green?&style=for-the-badge&logo=Excel&logoColor=white)
+
 
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,13 +38,14 @@
 
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 <!--# ![FastAPI](https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&style=for-the-badge&logo=fastapi&logoColor=white)-->
 
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+
 <!--# ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)-->
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 <!--# ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)-->
