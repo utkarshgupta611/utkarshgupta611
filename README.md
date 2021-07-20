@@ -51,7 +51,7 @@
 <!--# ![FastAPI](https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&style=for-the-badge&logo=fastapi&logoColor=white)-->
 
 
-<!--# ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)-->
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 <!--# ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)-->
 
