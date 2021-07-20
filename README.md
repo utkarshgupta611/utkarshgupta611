@@ -13,11 +13,16 @@
 <img align="right" src="./asset/img/programmer.gif" alt="gif">
 
 ## **About Me** 😎
-
+<!-- 
 - 🔭 I’m currently doing project on ... <b>Data Science & Machine Learning</b>
 - 🌱 I’m currently learning ... <b>OpeCV & Deep learning</b>
 - 👯 I’m looking to collaborate on ... <b>Data Science & Machine learning</b>
-- 🤔 I’m looking for help with ... <b>Deep learning</b>
+- 🤔 I’m looking for help with ... <b>Deep learning</b> -->
+
+- 🔭 I’m currently doing project on ... <b>Java, SpringBoot, Spring Rest</b>
+- 🌱 I’m currently learning ... <b>Java - Microservices, Java Rest</b>
+- 👯 I’m looking to collaborate on ... <b>Java Project</b>
+- 🤔 I’m looking for help with ... <b>Advance Java</b> 
 
 <!-- Language and tools badge  from https://shields.io/ -->
 ## 🛠️ **Languages & Tools:**
