@@ -68,5 +68,5 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=white" alt="trophy">
 
 <!--Footer-->
-<!-- <hr>
-<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"> --> -->
+<hr>
+<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"> 
