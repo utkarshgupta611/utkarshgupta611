@@ -53,8 +53,8 @@
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Gitlab](https://img.shields.io/badge/-Gitlab-red)
-https://img.shields.io/badge/-Gitlab-red
+![Gitlab](https://img.shields.io/badge/-Gitlab-red?&style=for-the-badge&logo=gitlab&logoColor=white)
+
 <!--# ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)-->
 
 <!--# ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)-->
