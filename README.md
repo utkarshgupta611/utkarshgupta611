@@ -7,8 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshgupta1998/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshgupta7112@gmail.com)
 [![Tableau](https://img.shields.io/badge/-Tableau-blue?&style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/utkarsh.gupta3565#!/?newProfile=&activeTab=0)
-
-</p>
+<!-- ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)(https://hub.docker.com/u/utkarshgupta611)
+</p> -->
 
 <img align="right" src="./asset/img/programmer.gif" alt="gif">
 
