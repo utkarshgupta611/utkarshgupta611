@@ -31,10 +31,12 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-red?&style=for-the-badge&logo=java&logoColor=white)
 
 
-![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![Mysql](https://img.shields.io/badge/-MySql-blue?&style=for-the-badge&logo=Mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?&style=for-the-badge&logo=MongoDB&logoColor=white)
+
 
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?&style=for-the-badge&logo=tableau&logoColor=white)
-![Mysql](https://img.shields.io/badge/-MySql-blue?&style=for-the-badge&logo=Mysql&logoColor=white)
+![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![MS-Excel](https://img.shields.io/badge/-MsExcel-green?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 
 
