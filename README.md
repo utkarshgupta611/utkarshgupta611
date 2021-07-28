@@ -27,7 +27,7 @@
 <!-- Language and tools badge  from https://shields.io/ -->
 ## 🛠️ **Languages & Tools:**
 
-###LANGUAGE
+### LANGUAGE
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/-JAVA-red?&style=for-the-badge&logo=java&logoColor=white)
 
