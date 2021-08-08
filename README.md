@@ -57,7 +57,7 @@
 ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-lightgrey?style=for-the-badge&logo=eclipse)
-![STS](https://img.shields.io/badge/-STS-green?style=for-the-badge&logo=sts)
+![SpringToolSuite](https://img.shields.io/badge/-STS-green?style=for-the-badge&logo=sts)
 
 
 ### <h4>FRONT-END</h4>
