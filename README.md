@@ -42,7 +42,7 @@
 ![MS-Excel](https://img.shields.io/badge/-MsExcel-green?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 
 
-### <h4>DATA SCIENCE , ML, DL</h4>
+### <h4>DATA SCIENCE , ML, DL </h4>
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
