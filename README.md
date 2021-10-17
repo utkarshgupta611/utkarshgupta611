@@ -20,6 +20,7 @@ class Life(Creativity):
 if '__repo__' == '__helpful__':
     star.it()
     fork.it()
+
 ``` -->
 
 <!--Social Channel-->
