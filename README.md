@@ -1,26 +1,26 @@
 ### Hi there 👋
 <img src="./asset/img/header/title_name.png">
-
+<!-- 
 ```python
 from life import Creativity
 
 class Life(Creativity):
     def __init_life__(self):
-        self.current_job_title = "Associate Data Scientist"
+        self.current_job_title = "Associate Software Developer"
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "Computer vision & Deep Learning 📚"
-        self.currently_working_on = "Imgage segmentation 🌱"
+        self.currently_learning = "Java -8 and SpringBoot 📚"
+        self.currently_working_on = "Google Cloud Platform 🌱"
         self.excited_for = "Internt of Things 🌎"
     
     def contact_me(self):
-        self.email = "deepak008@live.com"
+        self.email = "utkarshgupta7112@gmail.com"
  
 if '__repo__' == '__helpful__':
     star.it()
     fork.it()
-```
+``` -->
 
 <!--Social Channel-->
 <p align="center">
