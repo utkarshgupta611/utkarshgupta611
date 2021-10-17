@@ -1,6 +1,27 @@
 ### Hi there 👋
 <img src="./asset/img/header/title_name.png">
 
+```python
+from life import Creativity
+
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "Associate Data Scientist"
+        self.open_for_opportunity = True
+
+    def current_projects(self):
+        self.currently_learning = "Computer vision & Deep Learning 📚"
+        self.currently_working_on = "Imgage segmentation 🌱"
+        self.excited_for = "Internt of Things 🌎"
+    
+    def contact_me(self):
+        self.email = "deepak008@live.com"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
+```
+
 <!--Social Channel-->
 <p align="center">
 
