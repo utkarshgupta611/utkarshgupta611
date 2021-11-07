@@ -49,8 +49,10 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23430098.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SkLearn](https://img.shields.io/badge/SkLearn%20-%23E34F26.svg?&style=for-the-badge&logo=scikit%20learn&logoColor=white)
 ![opencv](https://img.shields.io/badge/-opencv-lightgrey?&style=for-the-badge&logo=OpenCV&logoColor=white)
-![Natural language processing](https://img.shields.io/badge/-NLP-red?&style=for-the-badge&logo=Natural_language_processingColor=white)
+![Natural language processing](https://img.shields.io/badge/-NLP-red?&style=for-the-badge&logo=Natural_language_processing&logoColor=white)
 
+### <h4> JAVA TECH</h4>
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 
 ### <h4>IDE AND EDITOR</h4>
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
