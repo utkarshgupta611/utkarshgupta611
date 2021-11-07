@@ -75,7 +75,7 @@
 
 
 ### <h4>OS</h4>
-<!--# ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)-->
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
 <!--Footer-->
