@@ -53,6 +53,8 @@
 
 ### <h4> JAVA TECH</h4>
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![SpringJPA](https://img.shields.io/badge/-SpringJPA-green?&style=for-the-badge&logo=SpringJPA&logoColor=white)
+![MicroService](https://img.shields.io/badge/-SpringBootMicroservice-green?&style=for-the-badge&logo=SpringBootMicroService&logoColor=white)
 
 ### <h4>IDE AND EDITOR</h4>
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
