@@ -20,7 +20,7 @@
 - 🤔 I’m looking for help with ... <b>Deep learning</b> -->
 
 - 🔭 I’m currently doing project on ... <b>Java, SpringBoot, Spring Rest</b>
-- 🌱 I’m currently learning ... <b>Java - Microservices, Java Rest</b>
+- 🌱 I’m currently learning ... <b> DevOps, Jenkins, Terraform, GCP</b>
 - 👯 I’m looking to collaborate on ... <b>Java Project</b>
 - 🤔 I’m looking for help with ... <b>Advance Java</b> 
 
